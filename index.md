@@ -1,3 +1,4 @@
 ---
-hello world: Welcome to my first blog
+title: "hello world"
+date: 2025-05-17
 ---
