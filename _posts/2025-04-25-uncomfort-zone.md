@@ -18,16 +18,16 @@ The one opinion that should be given the most weight in your decision-making is 
 
 Since I’ve spent so long daydreaming and manifesting my ideal future, you best believe I am hustling in my personal and professional life NOW. Or else, I’d fear disappointing the one person I’ll have to live with for the rest of my life: FUTURE ME.
 
-### 2. Reflect compassionately and constructively
-How can I give myself some compassionate yet constructive feedback?
+### 2. Realize it's never that deep
+~~How can I give myself some compassionate yet constructive feedback?~~
 
-For me, it was pivoting careers. I remember mulling over this decision for a while. It was vastly different from my college major, my internships, and I felt it was a betrayal of my past self, who had spent long nights studying theoretical stats classes and passing tough exams. Did it all go to waste?
+~~For me, it was pivoting careers. I remember mulling over this decision for a while. It was vastly different from my college major, my internships, and I felt it was a betrayal of my past self, who had spent long nights studying theoretical stats classes and passing tough exams. Did it all go to waste?~~
 
-Fast forward four months, and I am genuinely having a blast. The newness of my role makes it feel like I’m working in a startup environment, the mentorship has been incredible, and I can see the tangible results of my work. It’s also forced me outside my comfort zone of spreadsheets and calculations and into more public speaking and client-facing roles.
+~~Fast forward four months, and I am genuinely having a blast. The newness of my role makes it feel like I’m working in a startup environment, the mentorship has been incredible, and I can see the tangible results of my work. It’s also forced me outside my comfort zone of spreadsheets and calculations and into more public speaking and client-facing roles.~~
 
-That’s not to say that my college degree and internships went to waste. Quite the opposite… they’re the reasons I got my current job. The skillset I built in college and the constructive feedback I received during my internships made me an informed and well-rounded applicant.
+~~That’s not to say that my college degree and internships went to waste. Quite the opposite… they’re the reasons I got my current job. The skillset I built in college and the constructive feedback I received during my internships made me an informed and well-rounded applicant.~~
 
-Even if things were not going as well, I would still gift myself this kind of compassionate yet constructive analysis. Being direct yet kind to yourself is the best way to force and inspire yourself toward greatness.🤩
+~~Even if things were not going as well, I would still gift myself this kind of compassionate yet constructive analysis. Being direct yet kind to yourself is the best way to force and inspire yourself toward greatness.~~
 
 ### 3. Collect data as life happens
 Collect your personal data before tech companies do.
