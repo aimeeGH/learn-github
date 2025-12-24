@@ -1,5 +1,5 @@
 ---
-title: "Graduation Speech"
+title: "Graduation speech"
 date: 2024-06-15
 ---
 
