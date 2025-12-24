@@ -1,3 +1,8 @@
+---
+title: "Dear Miss Stress"
+date: 2023-05-14
+---
+
 > The following essay follows Mia, a third year finance major who is taking a class on the mind-body connection. Here, she examines the impact childhood piano lessons had on her, embedding quotes from her class's research.
 
 The public pianos at UCLA are always occupied, whether it's by the novice pianist who can barely read sheet music or the music major who can casually play Chopin's _Fantaisie-Impromptu_. On this particular Friday, however, the piano sat without its pianist and began calling my name, like a siren in the distance. Cautiously, I approached, but as I got closer, the soft whisper crescendoed into a jarring scream. Instantly, I was overcome with a wave of stress and nostalgia. My _fight-or-flight response_ kicked in; should I sit down and play or run in the other direction?
