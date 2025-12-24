@@ -1,3 +1,8 @@
+---
+title: "Graduation Speech"
+date: 2024-06-15
+---
+
 > Check out the actual [speech](https:://www.bit.ly/mygradspeech) and watch me graduate!
 
 Welcome, proud friends/family, distinguished faculty/deans, and our accomplished graduates, as we celebrate the UCLA Statistics and Data Science Department's graduating class of 2024! Thank you for this opportunity to speak here today.
